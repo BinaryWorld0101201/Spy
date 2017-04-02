@@ -8,8 +8,8 @@ Just download `Spy++.exe` and run it.
 
 ---
 Some screenshots:  
-![](https://raw.githubusercontent.com/cshuaimin/Spy-/master/screenshots/Spy%2B%2B_1.bmp)
-![](https://raw.githubusercontent.com/cshuaimin/Spy-/master/screenshots/Spy%2B%2B_2.bmp)
-![](https://raw.githubusercontent.com/cshuaimin/Spy-/master/screenshots/Spy%2B%2B_3.bmp)
-![](https://raw.githubusercontent.com/cshuaimin/Spy-/master/screenshots/Spy%2B%2B_4.bmp)
-![](https://raw.githubusercontent.com/cshuaimin/Spy-/master/screenshots/Spy%2B%2B_5.bmp)
+![](https://raw.githubusercontent.com/cshuaimin/Spy/master/screenshots/Spy%2B%2B_1.bmp)
+![](https://raw.githubusercontent.com/cshuaimin/Spy/master/screenshots/Spy%2B%2B_2.bmp)
+![](https://raw.githubusercontent.com/cshuaimin/Spy/master/screenshots/Spy%2B%2B_3.bmp)
+![](https://raw.githubusercontent.com/cshuaimin/Spy/master/screenshots/Spy%2B%2B_4.bmp)
+![](https://raw.githubusercontent.com/cshuaimin/Spy/master/screenshots/Spy%2B%2B_5.bmp)
